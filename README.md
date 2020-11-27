@@ -4,7 +4,7 @@
 
 ### Side Project
 
-> [베이비맵|BabyMap](https://babymap.info)
+> [베이비맵(BabyMap)](https://babymap.info)
 
 <!--
 **toysmoon/toysmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
