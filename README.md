@@ -1,6 +1,4 @@
-### I’m getting married 🤵‍♂️
-
-> [모바일 청첩장 보러가기](https://wedding.sungjung.dev)
+### 개발새발자
 
 <!--
 **toysmoon/toysmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
